@@ -5,10 +5,6 @@
 
 ![alt text](20240209101055.png "Title")
 
-![alt text](Isolated.png "Title")
-
-![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
-
 My client is looking for a new hair style. She is 52 years old. Please analyse her hair and provide some recommended new hair styles
 
 #### ChatGPT Analysis
@@ -50,7 +46,7 @@ Let's proceed with generating the image for the first hairstyle recommendation: 
 
 Here is a visual representation of the first hairstyle recommendation, a lob with side-swept bangs, in a rich chocolate brown color. The style is demonstrated on a woman who has similar facial features and is in the same age range as your client. If this resonates with her, you can consider this as a fresh new look. Would you like to proceed with the visuals for the next hairstyle recommendations?
 
-![[Pasted image 20240209101205.png|512]]
+![Alt Text](20240209101205.png)]
 
 ## Stable Diffusion Output
 
@@ -58,7 +54,7 @@ Here is a visual representation of the first hairstyle recommendation, a lob wit
 
 A woman in her early 50s with an oval face and defined cheekbones, photographed in a formal setting with natural lighting. She has a sophisticated lob haircut just above the shoulders with side-swept bangs. Her hair color is a rich chocolate brown with a smooth texture, and she wears a smart black blazer over a white shirt.
 
-![[Pasted image 20240209101305.png]]
+![Alt Text](20240209101305.png)]
 
 ### Layered Shoulder-Length Cut with Curtain Bangs Prompt
 
@@ -66,24 +62,24 @@ A woman in her early 50s with an oval face and defined cheekbones, photographed 
 
 A woman in her early 50s with an oval face, photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers, complementing her formal attire in a natural setting.
 
-![[Pasted image 20240209101443.png]]
+![Alt Text](20240209101443.png)
 
 
 #### Photo 2
 
 A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her formal attire in a coffee shop setting,dim lighting,nighttime,
 
-![[Pasted image 20240209101921.png]]
+!(20240209101921.png)
 
 
 #### Photo 3
 
 A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her casual attire,urban street,rainy day,
 
-![[Pasted image 20240209102209.png]]
+!(20240209102209.png)
 
 ### Soft Pixie Cut Prompt
 
 A sophisticated woman in her early 50s with a strong jawline, posing in an elegant environment. She sports a chic soft pixie cut that enhances her facial features, with a natural hair color of deep brown and subtle highlights. The image captures the shine and texture of her hair, complemented by her elegant black outfit.
 
-![[Pasted image 20240209101620.png]]
+!(20240209101620.png)
