@@ -3,7 +3,9 @@
 
 #### Input
 
-![[Pasted image 20240209101055.png]]
+!(Pasted image 20240209101055.png)
+
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
 
 My client is looking for a new hair style. She is 52 years old. Please analyse her hair and provide some recommended new hair styles
 
