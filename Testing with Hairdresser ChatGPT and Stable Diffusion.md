@@ -3,7 +3,9 @@
 
 #### Input
 
-!(Pasted image 20240209101055.png)
+![alt text](Pasted image 20240209101055.png "Title")
+
+![alt text](Isolated.png "Title")
 
 ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
 
