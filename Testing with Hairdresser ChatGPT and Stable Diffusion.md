@@ -1,5 +1,16 @@
+## Project Description
+
+I'm testing the following:
+- Whether GPT4 can accurately detect hair type from a photograph
+- Whether GPT4 can provide new hair style recommendations that an experienced hairdress would
+- Whether Stable Diffusion can take a description of the new hair style, the face, an image of the face, the scene and create a visualization of how that new hair style would look in real life
+
+I'm working with a real life hairdresser on this project.
+
 
 ## Analysis with ChatGPT
+
+I built a customGTP that accepts an image, analyzes it and provides recommendations.
 
 #### Input
 
@@ -50,9 +61,11 @@ Here is a visual representation of the first hairstyle recommendation, a lob wit
 
 ## Stable Diffusion Output
 
+I take the prompts from ChatGPT and use the refactor extension with an image of the client to do the face swap.
+
 ### **Lob with Side-Swept Bangs Prompt**
 
-A woman in her early 50s with an oval face and defined cheekbones, photographed in a formal setting with natural lighting. She has a sophisticated lob haircut just above the shoulders with side-swept bangs. Her hair color is a rich chocolate brown with a smooth texture, and she wears a smart black blazer over a white shirt.
+Prompt: A woman in her early 50s with an oval face and defined cheekbones, photographed in a formal setting with natural lighting. She has a sophisticated lob haircut just above the shoulders with side-swept bangs. Her hair color is a rich chocolate brown with a smooth texture, and she wears a smart black blazer over a white shirt.
 
 ![Alt Text](20240209101305.png)
 
@@ -60,26 +73,26 @@ A woman in her early 50s with an oval face and defined cheekbones, photographed 
 
 #### Photo 1
 
-A woman in her early 50s with an oval face, photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers, complementing her formal attire in a natural setting.
+Prompt: A woman in her early 50s with an oval face, photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers, complementing her formal attire in a natural setting.
 
 ![Alt Text](20240209101443.png)
 
 
 #### Photo 2
 
-A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her formal attire in a coffee shop setting,dim lighting,nighttime,
+Prompt: A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her formal attire in a coffee shop setting,dim lighting,nighttime,
 
 ![Alt Text](20240209101921.png)
 
 
 #### Photo 3
 
-A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her casual attire,urban street,rainy day,
+Prompt: A woman in her early 50s with an oval face,photographed with a professional depth-of-field camera effect. She has a vibrant shoulder-length layered haircut with soft curtain bangs framing her face. Her hair color is a soft black with subtle highlights to showcase the layers,complementing her casual attire,urban street,rainy day,
 
 ![Alt Text](20240209102209.png)
 
 ### Soft Pixie Cut Prompt
 
-A sophisticated woman in her early 50s with a strong jawline, posing in an elegant environment. She sports a chic soft pixie cut that enhances her facial features, with a natural hair color of deep brown and subtle highlights. The image captures the shine and texture of her hair, complemented by her elegant black outfit.
+Prompt: A sophisticated woman in her early 50s with a strong jawline, posing in an elegant environment. She sports a chic soft pixie cut that enhances her facial features, with a natural hair color of deep brown and subtle highlights. The image captures the shine and texture of her hair, complemented by her elegant black outfit.
 
 ![Alt Text](20240209101620.png)
