@@ -46,7 +46,7 @@ Let's proceed with generating the image for the first hairstyle recommendation: 
 
 Here is a visual representation of the first hairstyle recommendation, a lob with side-swept bangs, in a rich chocolate brown color. The style is demonstrated on a woman who has similar facial features and is in the same age range as your client. If this resonates with her, you can consider this as a fresh new look. Would you like to proceed with the visuals for the next hairstyle recommendations?
 
-![Alt Text](20240209101205.png)
+![Alt Text](20240209101205.png =512x512)
 
 ## Stable Diffusion Output
 
