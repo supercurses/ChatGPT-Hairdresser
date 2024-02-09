@@ -3,7 +3,7 @@
 
 #### Input
 
-![alt text](Pasted image 20240209101055.png "Title")
+![alt text]("Pasted image 20240209101055.png" "Title")
 
 ![alt text](Isolated.png "Title")
 
