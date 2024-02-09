@@ -2,8 +2,10 @@
 
 I'm testing the following:
 - Whether GPT4 can accurately detect hair type from a photograph
-- Whether GPT4 can provide new hair style recommendations that an experienced hairdress would
-- Whether Stable Diffusion can take a description of the new hair style, the face, an image of the face, the scene and create a visualization of how that new hair style would look in real life
+- Whether GPT4 can provide new hairstyle recommendations that an experienced hairdresser would
+- Whether Stable Diffusion can take a description of the new hairstyle, the face, an image of the face, the scene and create a visualization of how that new hairstyle would look in real life
+
+Problem to solve: clients often show up at the salon with unrealistic expectations of what is possible with their hair style or desired management routine. Can we use AI to give the client an understanding up front of what is realistic for their hair and how those new styles will look in real-life?
 
 I'm working with a real life hairdresser on this project.
 
