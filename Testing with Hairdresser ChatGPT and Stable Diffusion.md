@@ -65,6 +65,8 @@ Here is a visual representation of the first hairstyle recommendation, a lob wit
 
 I take the prompts from ChatGPT and use the refactor extension with an image of the client to do the face swap.
 
+NOTE: This is a lazy effort, I took only 1 low-resolution image of the client (the one at the top of the page) and used that for the face swap. Better likeness could be gained by using higher quality or multiple face images.
+
 ### **Lob with Side-Swept Bangs Prompt**
 
 Prompt: A woman in her early 50s with an oval face and defined cheekbones, photographed in a formal setting with natural lighting. She has a sophisticated lob haircut just above the shoulders with side-swept bangs. Her hair color is a rich chocolate brown with a smooth texture, and she wears a smart black blazer over a white shirt.
